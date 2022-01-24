@@ -8,6 +8,6 @@ public class DemoDockerDemoController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello World - Welcome Demo - aampe";
+        return "Hello Aampe - Welcome to Demo";
     }
 }
